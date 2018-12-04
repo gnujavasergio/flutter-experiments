@@ -112,7 +112,6 @@ class OrderButton extends StatelessWidget {
         // builder: (BuildContext context) {
         //   return alert;
         // }
-        builder: (BuildContext context) => alert
-        );
+        builder: (BuildContext context) => alert);
   }
 }
