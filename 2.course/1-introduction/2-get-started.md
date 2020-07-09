@@ -2,7 +2,12 @@
 - Inicio
 [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 
-## Instalación en LInux
+## Requisitos de Hardware
+
+- Desarrollar en Android requiere un minimo de memoria RAM recomendada queseria de 8 GB esto se debe a los emuladores.
+- Para compilar una aplicacion en iOS necesitas si o si una Mac.
+
+## Instalación en Linux
 
 1. Descargar el sdk para Linux
 - [flutter_linux_v1.2.1-stable.tar.xz](https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.2.1-stable.tar.xz)
